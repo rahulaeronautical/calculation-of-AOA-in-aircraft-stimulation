@@ -1,0 +1,1 @@
+# calculation-of-AOA-in-aircraft-stimulation
